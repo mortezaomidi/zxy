@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">zxy</string>
     <string name="mapbox_access_token">pk.eyJ1IjoibW9ydGV6YW9taWRpIiwiYSI6ImNqaG9xMzU5ejFhMDczMHMzemhtb2luc3EifQ.aY3C5hnGROlkYiU0CYk1YA</string>
+    <string name="permission_external_storage_denied">permission for reading tiles denied</string>
+
+
 </resources>
